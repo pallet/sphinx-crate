@@ -2,7 +2,7 @@
 
 This a crate to install and run sphinx via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/sphinx-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
